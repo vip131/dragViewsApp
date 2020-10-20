@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "868E9DA4-4355-46B6-AC29-A9AFEA8D14F7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3288480-3CCF-4C5F-81B2-3C32D6D5FF79"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "dragViewsApp/sss.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "-removeFromSuperview"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0ACCF69A-DE34-4141-9BD7-0B6A6E440132"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "dragViewsApp/sss.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "-removeFromSuperview"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "587B4418-416C-4D1F-A79B-32BDC3E7227E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "dragViewsApp/dragginfView.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "-removeFromSuperview"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "587B4418-416C-4D1F-A79B-32BDC3E7227E - bb4467a2b8b63eb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[dragginfView removeFromSuperview]"
+                  moduleName = "dragViewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/HDD/iOS_Dev/Obj_C/OBJ_C_TESTING_ROOM/dragViewsApp%20_%D0%B4%D0%B0%D0%BB%D0%B5%D0%B5/dragViewsApp/dragginfView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "587B4418-416C-4D1F-A79B-32BDC3E7227E - b3ec10697f007cb4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[dragginfView removeFromSuperview]_block_invoke"
+                  moduleName = "dragViewsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/HDD/iOS_Dev/Obj_C/OBJ_C_TESTING_ROOM/dragViewsApp%20_%D0%B4%D0%B0%D0%BB%D0%B5%D0%B5/dragViewsApp/dragginfView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
